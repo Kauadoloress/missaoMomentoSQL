@@ -13,4 +13,4 @@ A jornada não foi isenta de desafios. A cada consulta, tives que aprimorar minh
 ### Reflexões e Aprimoramento:
 A atividade me proporcionou um aprendizado valioso sobre o poder do MySQL e a importância de uma boa estrutura de banco de dados. Aprendemi a formular consultas complexas de forma eficiente e a interpretar os resultados com clareza.
 ### Conclusão:
-Esta jornada pelo mundo do Oscar com MySQL foi uma experiência enriquecedora que nos permitiu aprimorar nossas habilidades em banco de dados e explorar a riqueza de informações contida em um banco de dados bem estruturado. As consultas desenvolvidas servem como base para novas explorações e descobertas, convidando-nos a continuar mergulhando nesse universo fascinante.
+Esta jornada pelo mundo do Oscar com MySQL foi uma experiência enriquecedora que me permitiu aprimorar minha habilidades em banco de dados e explorar a riqueza de informações contida em um banco de dados bem estruturado. As consultas desenvolvidas servem como base para novas explorações e descobertas, convidando-nos a continuar mergulhando nesse universo fascinante.
